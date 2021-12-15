@@ -239,7 +239,7 @@
 
     .main-form {
         width: 398px;
-        top: 215px;
+        top: 315px;
         left: 606px;
     }
     
@@ -257,6 +257,10 @@
 
     .main-form-line {
         width: 298px;
+    }
+
+    .main-title {
+        margin-top: 115px;
     }
 }
 
